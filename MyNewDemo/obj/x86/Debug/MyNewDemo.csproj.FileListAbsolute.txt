@@ -1,0 +1,17 @@
+c:\users\admin\documents\visual studio 2010\Projects\MyNewDemo\MyNewDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\MyNewDemo\MyNewDemo\obj\x86\Debug\PageSwitcher.baml
+c:\users\admin\documents\visual studio 2010\Projects\MyNewDemo\MyNewDemo\obj\x86\Debug\Screens\Screen1.baml
+c:\users\admin\documents\visual studio 2010\Projects\MyNewDemo\MyNewDemo\obj\x86\Debug\Screens\Screen2.baml
+c:\users\admin\documents\visual studio 2010\Projects\MyNewDemo\MyNewDemo\obj\x86\Debug\PageSwitcher.g.cs
+c:\users\admin\documents\visual studio 2010\Projects\MyNewDemo\MyNewDemo\obj\x86\Debug\Screens\Screen1.g.cs
+c:\users\admin\documents\visual studio 2010\Projects\MyNewDemo\MyNewDemo\obj\x86\Debug\Screens\Screen2.g.cs
+c:\users\admin\documents\visual studio 2010\Projects\MyNewDemo\MyNewDemo\obj\x86\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2010\Projects\MyNewDemo\MyNewDemo\obj\x86\Debug\MyNewDemo_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2010\Projects\MyNewDemo\MyNewDemo\obj\x86\Debug\MyNewDemo.g.resources
+c:\users\admin\documents\visual studio 2010\Projects\MyNewDemo\MyNewDemo\obj\x86\Debug\MyNewDemo.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\MyNewDemo\MyNewDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\MyNewDemo\MyNewDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\MyNewDemo\MyNewDemo\bin\Debug\MyNewDemo.exe
+c:\users\admin\documents\visual studio 2010\Projects\MyNewDemo\MyNewDemo\bin\Debug\MyNewDemo.pdb
+c:\users\admin\documents\visual studio 2010\Projects\MyNewDemo\MyNewDemo\obj\x86\Debug\MyNewDemo.exe
+c:\users\admin\documents\visual studio 2010\Projects\MyNewDemo\MyNewDemo\obj\x86\Debug\MyNewDemo.pdb
